@@ -20,4 +20,7 @@ mamba create -y -n badread badread
 conda activate mge2022 
 mamba install -y  -c conda-forge notebook nb_conda_kernels
 mamba install -y -c bioconda art
+mamba install -y -c bioconda shovill
+mamba install -y -c bioconda unicycler
+
 ```
