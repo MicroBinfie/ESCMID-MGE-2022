@@ -46,7 +46,7 @@ See the suggested workflows below for more details.
 
 ## Suggested workflows 
 
-[Assemble your sequenced reads and partition plasmid and chromosome sequences](https://tinyurl.com/4js7yf4y)
+### [Assemble your sequenced reads and partition plasmid and chromosome sequences](https://tinyurl.com/4js7yf4y)
 
 <img src="plas_vs_chrom.png "
      style="float: left; margin-right: 10px;" />
@@ -62,10 +62,11 @@ There are detailed worked examples for each of the tools mentioned:
 
 
 
-[Finding similar plasmids; genotyping, and taxonomy methods](https://tinyurl.com/f9c33zej)
+### [Finding similar plasmids; genotyping, and taxonomy methods](https://tinyurl.com/f9c33zej)
 
 <img src="genotype_plas.png"
      style="float: left; margin-right: 10px;" />
+
 
 ## Installing the environment
 
