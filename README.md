@@ -61,7 +61,7 @@ There are detailed worked examples for each of the tools mentioned:
 * [Selecting plasmid contigs with PLACNET](assembly_annotation/assembly_plasmid_placnet.ipynb)
 
 
-### Installing the environment
+## Installing the environment
 
 ```
 conda create -y -n mge2022 mamba 
