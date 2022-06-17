@@ -61,6 +61,12 @@ There are detailed worked examples for each of the tools mentioned:
 * [Selecting plasmid contigs with PLACNET](assembly_annotation/assembly_plasmid_placnet.ipynb)
 
 
+
+[Finding similar plasmids; genotyping, and taxonomy methods](https://tinyurl.com/f9c33zej)
+
+<img src="genotype_plas.png"
+     style="float: left; margin-right: 10px;" />
+
 ## Installing the environment
 
 ```
