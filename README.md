@@ -24,3 +24,11 @@ mamba install -y -c bioconda shovill
 mamba install -y -c bioconda unicycler
 
 ```
+
+### Suggested workflows 
+
+<img src="plas_vs_chrom.png "
+     style="float: left; margin-right: 10px;" />
+
+https://tinyurl.com/4js7yf4y
+
