@@ -24,7 +24,7 @@ We have included basic theory (as lecture slides), workflows for steps you could
 
 The worked examples includes sample data that you can also use to follow along. These include genome sequences, and simulated sequenced reads (short read/illumina and long read/ONT).These examples include:
 
-* A Multidrug resistant E. coli (ST131) [simulate_reads/simulate_reads.ipynb]
+* [A Multidrug resistant E. coli (ST131)](simulate_reads/simulate_reads.ipynb)
 
 ## Your starting point 
 
@@ -44,12 +44,13 @@ In general, we recommend that you approach your analysis with the following step
 
 See the suggested workflows below for more details.
 
-### Suggested workflows 
+## Suggested workflows 
+
+[Identifying plasmid sequences in assemblies](https://tinyurl.com/4js7yf4y)
 
 <img src="plas_vs_chrom.png "
      style="float: left; margin-right: 10px;" />
 
-https://tinyurl.com/4js7yf4y
 
 There are detailed worked examples for each of the tools mentioned:
 
