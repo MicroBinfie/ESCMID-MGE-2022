@@ -46,7 +46,7 @@ See the suggested workflows below for more details.
 
 ## Suggested workflows 
 
-[Identifying plasmid sequences in assemblies](https://tinyurl.com/4js7yf4y)
+[Assemble your sequenced reads and partition plasmid and chromosome sequences](https://tinyurl.com/4js7yf4y)
 
 <img src="plas_vs_chrom.png "
      style="float: left; margin-right: 10px;" />
