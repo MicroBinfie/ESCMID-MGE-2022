@@ -62,7 +62,7 @@ There are detailed worked examples for each of the tools mentioned:
 
 
 
-### [Finding similar plasmids; genotyping, and taxonomy methods](https://tinyurl.com/f9c33zej)
+### [Finding similar plasmids; genotyping, and taxonomy methods](https://tinyurl.com/39v48uzj)
 
 <img src="genotype_plas.2.png"
      style="float: left; margin-right: 10px;" />
