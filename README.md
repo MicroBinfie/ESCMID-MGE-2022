@@ -55,16 +55,16 @@ See the suggested workflows below for more details.
 There are detailed worked examples for each of the tools mentioned:
 
 * [Short read assembly with Shovill](assembly_annotation/assembly_annotation_short_reads.ipynb)
-* [Hybrid (long + short read)assembly with unicycler](assembly_annotation/assembly_annotation_hybrid.ipynb)
+* [Hybrid (long + short read) assembly with unicycler](assembly_annotation/assembly_annotation_hybrid.ipynb)
 * [Checking INC type (long read only) with Tiptoft](genotyping/plasmid_detect_tiptof.ipynb)
 * [Reconstruction plasmid sequences with MOB-Suite](genotyping/plasmid_reconstruction_mobsuite.ipynb)
 * [Selecting plasmid contigs with PLACNET](assembly_annotation/assembly_plasmid_placnet.ipynb)
 
 
 
-### [Finding similar plasmids; genotyping, and taxonomy methods](https://tinyurl.com/39v48uzj)
+### [Finding similar plasmids; genotyping, and taxonomy methods](https://tinyurl.com/2euc9y7b)
 
-<img src="genotype_plas.2.png"
+<img src="genotype_plas.3.png"
      style="float: left; margin-right: 10px;" />
 
 
