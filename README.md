@@ -48,7 +48,7 @@ See the suggested workflows below for more details.
 
 ### [Assemble your sequenced reads and partition plasmid and chromosome sequences](https://tinyurl.com/4js7yf4y)
 
-<img src="plas_vs_chrom.png "
+<img src="plas_vs_chrom.2.png "
      style="float: left; margin-right: 10px;" />
 
 
@@ -64,7 +64,7 @@ There are detailed worked examples for each of the tools mentioned:
 
 ### [Finding similar plasmids; genotyping, and taxonomy methods](https://tinyurl.com/f9c33zej)
 
-<img src="genotype_plas.png"
+<img src="genotype_plas.2.png"
      style="float: left; margin-right: 10px;" />
 
 
